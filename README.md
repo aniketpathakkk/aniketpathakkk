@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there, I'm Aniket Pathak 👋
 
-<!--
-**aniketpathakkk/aniketpathakkk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **First-Year Computer Science & Engineering Student** at Government Polytechnic, Sardhana, Meerut  
+💡 Passionate about computer technology, system fundamentals, and practical software development.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 Current Focus
+- 📚 Learning computer science fundamentals and command-line navigation.
+- 🐍 Practicing foundational programming concepts in Python and C.
+- ⚙️ Exploring developer workflows, Git, and system configuration.
+
+---
+
+### 🛠️ Skills & Tools
+- **Languages:** Python, C *(In Progress)*
+- **Tools:** Command Line (CLI), VS Code, Git & GitHub
+- **Productivity:** Notion, MS Office / Google Workspace
+
+---
+
+### 💼 Experience Highlights
+- **Shrisawariya Events** | *Founder & Event Coordinator* (Dec 2025 – Jun 2026)
+  - Managed venue logistics, client communication, and event operations.
+
+---
+
+### 📬 Connect with Me
+- **Email:** your.email@example.com
